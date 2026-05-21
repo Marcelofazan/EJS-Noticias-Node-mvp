@@ -1,0 +1,22 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andressa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "consign": "^0.1.6",
+    "ejs": "^2.7.4",
+    "express": "^4.22.2",
+    "express-validator": "^3.2.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.22.3"
+  },
+  "keywords": [],
+  "type": "commonjs"
+}
