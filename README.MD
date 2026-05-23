@@ -1,4 +1,4 @@
-## 🌍 Node-Noticias-EJS
+## 🌍 Node-Noticias-Ejs
 Exemplo de criação de site de notícias em Node.js e View Engine EJS.
 
 #### O que você vai encontrar neste projeto
@@ -8,8 +8,17 @@ Exemplo de criação de site de notícias em Node.js e View Engine EJS.
 | **EJS** | mecanismo de templates (view engine) para Node.js.  |
 | **Consign** |  é uma biblioteca para Node.js que automatiza o carregamento de arquivos (como rotas, models, controladores e configurações) |
 
+#### Requisitos do Projeto
+- Recuperar as dependencias do projeto node_modules . 
+```bash
+npm install
+```
+- Executar o Build do Projeto
+```bash
+node app.js
+```
 
-#### Execução da aplicação
+#### Executar a aplicação
 - Para executar a aplicação é necessário executar o Script do MySQL .
 
 Alterar o arquivo BAT para [SUA_SENHA], adicionando após (-p) sem espaços. 
@@ -17,18 +26,7 @@ Alterar o arquivo BAT para [SUA_SENHA], adicionando após (-p) sem espaços.
 %MYSQL_BIN% -u root -p[SUA_SENHA] < "Database\ScriptDatabase.sql"
 ``` 
 
-#### Requisitos e Detalhe do uso do Node.js
-- Recuperar as dependencias do projeto node_modules . 
-```bash
-npm install
-```
-
-- Executar o Build do Projeto
-```bash
-node app.js
-```
-
-#### Rotas dos métodos
+#### 🧪 Executar Endpoints 
 | Metodo | Descrição |
 |-----------|-----------|
 | Metodo: GET| http://localhost:3000/noticias |
