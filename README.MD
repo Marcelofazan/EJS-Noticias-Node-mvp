@@ -18,7 +18,7 @@ npm install
 node app.js
 ```
 
-#### Executar a aplicação
+#### 🔄 Executar a aplicação
 - Para executar a aplicação é necessário executar o Script do MySQL .
 
 Alterar o arquivo BAT para [SUA_SENHA], adicionando após (-p) sem espaços. 
