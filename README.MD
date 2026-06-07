@@ -8,7 +8,8 @@ Exemplo de criação de site de notícias em Node.js e View Engine EJS.
 | **EJS** | Mecanismo de templates (view engine) para Node.js.  |
 | **Consign** |Biblioteca para Node.js que automatiza o carregamento de arquivos (como rotas, models, controladores e configurações) |
 
-#### 📁 Requisitos do Projeto
+#### 🔄 Executar a aplicação
+
 - Recuperar as dependencias do projeto node_modules . 
 ```bash
 npm install
@@ -18,7 +19,6 @@ npm install
 node app.js
 ```
 
-#### 🔄 Executar a aplicação
 - Para executar a aplicação é necessário executar o Script do MySQL .
 
 Alterar o arquivo BAT para [SUA_SENHA], adicionando após (-p) sem espaços. 
