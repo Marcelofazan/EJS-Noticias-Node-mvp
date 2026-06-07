@@ -8,6 +8,9 @@ Exemplo de criação de site de notícias em Node.js e View Engine EJS.
 | **EJS** | Mecanismo de templates (view engine) para Node.js.  |
 | **Consign** |Biblioteca para Node.js que automatiza o carregamento de arquivos (como rotas, models, controladores e configurações) |
 
+#### Requisitos do Projeto
+- Para executar a aplicação é necessário a executar o Script do MySQL.
+
 #### 🔄 Executar a aplicação
 
 - Recuperar as dependencias do projeto node_modules . 
