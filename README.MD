@@ -4,7 +4,7 @@ Exemplo de criação de site de notícias em Node.js e View Engine EJS.
 #### 🎨 Aqui uma Demonstração do Projeto:
 https://node-noticias-ejs-lilac-forest-3276.fly.dev/
 
-#### O que você vai encontrar neste projeto
+#### 📋 O que você vai encontrar neste projeto
 
 | Tecnologia | Descrição |
 |-----------|-----------|
