@@ -1,5 +1,5 @@
 ## 🌐 EJS-Node-Noticias
-Exemplo de site de notícias em View Engine EJS e Node.js.
+Exemplo de site de notícias em View Engine EJS e Node.js com banco de dados MySQL.
 
 #### 🎨 Aqui uma Demonstração do Projeto:
 https://node-noticias-ejs-lilac-forest-3276.fly.dev/
